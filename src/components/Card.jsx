@@ -31,7 +31,7 @@ const Card = () => {
   const [sunset, setSunset] = useState(null)
   const [minutes, setMin] = useState(null)
   const [hours, setHours] = useState(null)
-  const [weathlogo, setWeathlogo] = useState(null)
+  const [weathlogo, setWeathlogo] = useState(mist)
   
 
 
