@@ -1,6 +1,6 @@
 {
   "name": "06weatherapp",
-  "homepage": "https://parasmottan.github.io/WeatherApp-WithReact",
+  "homepage": "https://weather-app-with-react-five.vercel.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
